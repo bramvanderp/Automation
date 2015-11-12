@@ -60,6 +60,6 @@ function pr{
     }
 }
 
-funtion henk{
+function henk{
   Write-Host 'Hoi Henk'
 }
