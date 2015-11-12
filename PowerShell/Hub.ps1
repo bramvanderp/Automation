@@ -59,3 +59,7 @@ function pr{
         hub browse
     }
 }
+
+funtion henk{
+  Write-Host 'Hoi Henk'
+}
